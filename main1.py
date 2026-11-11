@@ -1,6 +1,6 @@
 # 2. CARACTERÍSTICAS EXTRA (Ejecutadas después)
 # ==========================================
-print("\n--- Menú de Características Extra ---")
+print("Menú de Características Extra")
 
 
 print("\nElige una opción:")
